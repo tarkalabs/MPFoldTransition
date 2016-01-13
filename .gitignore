@@ -1,6 +1,7 @@
 
 .DS_Store
-
+*.xcuserdata
+xcuserdata
 MPFoldTransition.xcodeproj/xcuserdata/mark.xcuserdatad/xcschemes/xcschememanagement.plist
 
 MPFoldTransition.xcodeproj/project.xcworkspace/xcuserdata/mark.xcuserdatad/UserInterfaceState.xcuserstate
