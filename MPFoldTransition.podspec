@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "MPFoldTransition"
-  s.version          = "1.1.0"
+  s.version          = "1.1.1"
   s.summary          = "Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers."
   s.description      = <<-DESC
                        Easily add custom folding and page-flipping transitions to UIViews and UIViewControllers.
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.source_files = 'MPFoldTransition/*.{m,h,swift}'
+  s.source_files = 'MPFoldTransition/MPFoldTransition/*.{m,h,swift}'
 
   s.frameworks = 'Foundation', 'CoreGraphics', 'QuartzCore', 'UIKit'
 end
